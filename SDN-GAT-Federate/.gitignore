@@ -1,0 +1,26 @@
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore env files
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large data files (important for git)
+*.csv
+*.h5
+*.pkl
+*.pth
+*.pt
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
