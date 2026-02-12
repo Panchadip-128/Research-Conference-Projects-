@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+torch
+torch-geometric
+matplotlib
+seaborn
+scikit-learn
+pyg_lib
+torch_scatter
+torch_sparse
+torch_cluster
+torch_spline_conv
